@@ -11,3 +11,5 @@ texto = "string" ou número     # cria uma variável
 
 if True:                       # adicionar mais comando na linha
 
+fload #variável que não é inteiro
+int #inteiro
