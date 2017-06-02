@@ -6,3 +6,4 @@ else:
         print("Você disse que não!")
     else:
         print("Tente denovo seu filha da puta! Você precisa digitar 1 ou 2!")
+#aula21

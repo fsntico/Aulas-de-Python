@@ -10,7 +10,7 @@ switch(valor)
        caso 2: façaAquilo()
     caso 3: façaIssoEAquilo()
 """""
-
+#aula20
 a = (10)
 #if (a==10):
    # print("O valor de a é igual a 10"),
